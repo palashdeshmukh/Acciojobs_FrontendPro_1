@@ -1,0 +1,27 @@
+body{
+       border: 1px solid black;
+}
+*{
+          box-sizing: border-box;
+}
+section{
+          margin-top: 1rem;
+          font-size: 1.5rem;
+          width: 50%;
+          margin-left: 25%;
+}
+h1{
+ text-decoration:underline;
+}
+#section_1{
+       border:3px solid black;
+    
+}
+#First_div{
+
+          width: 95%;
+          margin-left: 3%;
+          word-spacing: 0.09rem;
+          margin-bottom: 1rem;
+          font-size: 1.5rem;
+}
